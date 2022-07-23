@@ -1,0 +1,13 @@
+﻿  CKernel.cpp
+E:\CodeFile\IM\CKernel.cpp(71,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\CodeFile\IM\CKernel.cpp(162,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+E:\CodeFile\IM\CKernel.cpp(195,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+E:\CodeFile\IM\CKernel.cpp(246,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+E:\CodeFile\IM\CKernel.cpp(275,24): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+E:\CodeFile\IM\CKernel.cpp(306,22): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+E:\CodeFile\IM\CKernel.cpp(324,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+E:\CodeFile\IM\CKernel.cpp(331,23): warning C4244: “参数”: 从“SOCKET”转换到“long”，可能丢失数据
+  main.cpp
+  TcpServerMediator.cpp
+  正在生成代码...
+  IM.vcxproj -> E:\CodeFile\IM\x64\Debug\IM.exe
