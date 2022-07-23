@@ -1,0 +1,15 @@
+﻿  BackGround.cpp
+  FoePlane.cpp
+  FoePlaneBig.cpp
+  FoePlaneBox.cpp
+  FoePlaneMid.cpp
+E:\CodeFile\飞机大战\FoePlaneBox\FoePlaneMid.cpp(30,43): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  FoePlaneSma.cpp
+  main.cpp
+  Gunner.cpp
+  GunnerBox.cpp
+  PlaneApp.cpp
+E:\CodeFile\飞机大战\PlaneApp\PlaneApp.cpp(49,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  PlayerPlane.cpp
+  正在生成代码...
+  飞机大战.vcxproj -> E:\CodeFile\飞机大战\Debug\飞机大战.exe
