@@ -1,0 +1,23 @@
+MenuScene > QPushButton{
+    background-color: transparent;
+    border-radius: 5px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: rgb(247, 0, 255);
+    color:rgb(247, 0, 255);
+    font-weight:bolder;
+    font-family: Adobe 繁黑體 Std B;
+    font-size: 14pt;
+}
+MenuScene > QPushButton:hover{
+    background-color: rgba(247, 0, 255, 0.3);
+    color: rgb(155, 0, 160);
+}
+
+MenuScene #title{
+    font-family: STCaiyun;
+    font-size: 100px;
+    color:rgb(68, 0, 255);
+
+}
+
